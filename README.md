@@ -14,4 +14,4 @@ You can:
 
 - The website also contains "About" and "Contact" sections.
  
- ## The front-end side is written in HTML5, CSS, JS and the back-end side has been carried out with Django framework
+ ### The front-end side is written in HTML5, CSS, JS and the back-end side has been carried out with Django framework
