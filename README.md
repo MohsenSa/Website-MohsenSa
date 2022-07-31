@@ -1,5 +1,5 @@
 # Website-MohsenSa
-## This Website was launched on MohsenSa.ir (now it's taken down though)
+## This website was launched on MohsenSa.ir (now it's taken down though)
 
 It is a mimicry of the website "projecteuler.net" (much more sophisticated though).
 
