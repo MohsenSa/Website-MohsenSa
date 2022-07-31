@@ -13,3 +13,5 @@ You can:
 - There is also a "Tutorial" section in which you can read educational topics and watch some educational videos.
 
 - The website also contains "About" and "Contact" sections.
+ 
+ ## The front-end side is written in HTML5, CSS, JS and the back-end side has been carried out with Django framework
